@@ -1,0 +1,42 @@
+
+
+h1{
+    text-align: center;
+}
+.p1{
+    color:red;
+}
+.p2{
+    color:blue;
+}
+.p3{
+    color:green;
+}
+
+.font1{
+    font-size: larger;
+}
+.font2{
+    font-size: small;
+}
+.center{
+    text-align: center;
+}
+.bold{
+    font-weight: bold;
+}
+.change{
+    font-family: sans-serif;
+}
+.att{
+    color:orange;
+    font-weight:bold;
+}
+.div{
+    font-style: italic;
+}
+.border{
+    border:orange solid;
+    border-width: thick;
+    
+}
